@@ -36,6 +36,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "scripts": {
+   "start": "npm start"
+  },
   "eslintConfig": {
     "extends": "react-app"
   },
